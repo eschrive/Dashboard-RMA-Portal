@@ -61,7 +61,7 @@ Prerequisites
 1. Clone the Repository
 
 ```
-git clone https://github.com/eschrive/meraki_ap_rma.git
+git clone https://github.com/eschrive/dashboard-rma-portal.git
 ```
 2. Install Dependencies
 
