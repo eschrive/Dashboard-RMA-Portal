@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+# Placeholder file to maintain logging directory in git.
+=======
+# This file keeps the logs directory in git while ignoring all log files
+>>>>>>> 140dfcc (Adding multiple organization support)
